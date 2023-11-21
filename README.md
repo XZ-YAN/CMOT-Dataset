@@ -1,6 +1,6 @@
 # CMOT-Dataset
 ## Introduction
-The Construction Multiple Object Tracking (CMOT) dataset contains 100 videos with more than 77k annotated frames and 155k instances.  
+The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with more than 77k annotated frames and 155k instances.  
 
 ## Construction Object Categories
 * 2 categories of workers: workers wearing & not wearing safety helmets.
