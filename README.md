@@ -77,6 +77,20 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
   |0093|	25|	1770*680|	800| Static|	Medium|	Sunny	|2|	mixer|
   |0097|	25|	1920*860|	750| Static|	High|	Sunny|	4|	people-helmet|
 
+  * CMOT Validation Set Overview
+    | Name     |FPS	       |Resolution|	Frames    |	Camera   |Viewpoints |Conditions|	IDs       |Categories|
+    | ---      | ---       | ---      | ---       | ---      | ---       | ---      | ---       | ---      |
+    |0004	|25	|1920*820	|825	|Static	|High	|Sunny	|1	|people-helmet, people-no-helmet|
+    |0022	|25	|1720*780	|750	|Static	|High	|Sunny	|3	|dump-truck, excavator, wheel-loader|
+    |0028	|29	|1920*980	|900	|Static	|High	|Night	|2	|dump-truck, excavator|
+    |0034	|25	|1280*720	|750	|Moving	|Low	|Sunny	|1 	|roller|
+    |0046	|25	|1920*780	|750	|Static	|High	|Sunny	|1	|dozer|
+    |0047	|25	|1920*780	|750	|Static	|High	|Sunny	|1	|dump-truck|
+    |0070	|25	|1420*780	|850	|Static	|High	|Night	|1	|PC|
+    |0087	|25	|554*476	|750	|Static	|High	|Cloudy	|1	|mixer|
+    |0089	|25	|1820*880	|739	|Static	|Medium	|Rainy	|2	|people-helmet|
+    |0096	|25	|620*370	|300	|Static	|Medium	|Cloudy	|1	|PC-truck|
+
 
 
 ## License
