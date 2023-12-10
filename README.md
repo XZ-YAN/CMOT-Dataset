@@ -21,7 +21,13 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
 * To visualize the dataset statistics, run:  
   `$ python CMOT_statistics_visualizer.py`  
 * CMOT statistics:  
-![Statistics](https://github.com/XZ-YAN/CMOT-Dataset/blob/main/demo/statistics.jpg)  
+![Statistics](https://github.com/XZ-YAN/CMOT-Dataset/blob/main/demo/statistics.jpg)
+
+* CMOT Training Set Overview
+  | Name     |FPS	       |Resolution|	Frames    |	Camera   |Viewpoints |Conditions|	IDs       |Categories|
+  | ---      | ---       | ---      | ---       | ---      | ---       | ---      | ---       | ---      |
+  |0002	|20	|2560*1240	|820|	Static	|High|	Rainy|	1|	mixer|
+
 
 ## License
 * The CMOT dataset is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) to promote the open use of the dataset and future improvements.
