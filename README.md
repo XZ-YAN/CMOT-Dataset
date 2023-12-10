@@ -27,7 +27,6 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
   | Name     |FPS	       |Resolution|	Frames    |	Camera   |Viewpoints |Conditions|	IDs       |Categories|
   | ---      | ---       | ---      | ---       | ---      | ---       | ---      | ---       | ---      |
   |0002	|20	|2560*1240	|820|	Static	|High|	Rainy|	1|	mixer|
-
   |0007|	25	|1920*980|	800|	Static|	High|	Sunny|	2	|dump-truck|
 
 
