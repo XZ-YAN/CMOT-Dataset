@@ -9,7 +9,7 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
 ![Categories](https://github.com/XZ-YAN/CMOT-Dataset/blob/main/demo/categories.jpg)  
 
 ## Download the CMOT Dataset  
-* [CMOT Videos](https://www.aliyundrive.com/s/bJnzTju4Ra8)  
+* To be updated.  
 
 ## Annotation Visualization
 * To visualize the dataset annotations, move the downloaded folder into the root directory of this repo and run:  
