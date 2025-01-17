@@ -9,7 +9,7 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
 ![Categories](https://github.com/XZ-YAN/CMOT-Dataset/blob/main/demo/categories.jpg)  
 
 ## Download the CMOT Dataset  
-* To be updated.  
+* ![CMOT Dataset](https://www.alipan.com/s/bJnzTju4Ra8).  
 
 ## Annotation Visualization
 * To visualize the dataset annotations, move the downloaded folder into the root directory of this repo and run:  
@@ -140,4 +140,4 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
 * Without permission, the CMOT dataset should only be used for non-commercial scientific research purposes.  
 
 ## Citing the CMOT Dataset
-If you find this repo useful in your research, please consider citing: (To be updated)
+If you find this repo useful in your research, please consider citing: Yan Xuzhong*, Jin Rui, Zhang Hong, Gao Hui, Xu Suyuan (2024). Computer vision-based intelligent monitoring of disruptions due to construction machinery arrival delay. Journal of Computing in Civil Engineering. 39(3): 0402501.
