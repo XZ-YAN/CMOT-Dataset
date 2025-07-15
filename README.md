@@ -140,4 +140,4 @@ The Construction Multi-Object Tracking (CMOT) dataset contains 100 videos with m
 * Without permission, the CMOT dataset should only be used for non-commercial scientific research purposes.  
 
 ## Citing the CMOT Dataset
-If you find this repo useful in your research, please consider citing: Yan Xuzhong*, Jin Rui, Zhang Hong, Gao Hui, Xu Suyuan (2024). Computer vision-based intelligent monitoring of disruptions due to construction machinery arrival delay. Journal of Computing in Civil Engineering. 39(3): 0402501.
+If you find this repo useful in your research, please consider citing: Yan Xuzhong*, Jin Rui, Zhang Hong, Gao Hui, Xu Suyuan (2024). Computer Vision-based Intelligent Monitoring of Disruptions due to Construction Machinery Arrival Delay. Journal of Computing in Civil Engineering. 39(3): 0402501.
